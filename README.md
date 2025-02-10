@@ -1,5 +1,7 @@
 # Sentiment Analysis for Target Entities in News Articles
 
+<img width="992" alt="Screenshot 2025-02-09 at 6 57 07 PM" src="https://github.com/user-attachments/assets/9d136992-dae7-42b0-a7c8-76b361714386" />
+
 ## Overview
 
 This project focuses on training and evaluating NLP models for **targeted sentiment analysis** in news articles. The goal is to classify the sentiment of a given **target entity** mentioned in a document as **positive, negative, or neutral**.
@@ -71,37 +73,6 @@ This project focuses on training and evaluating NLP models for **targeted sentim
 - Scikit-learn
 - Pandas, NumPy
 
-### Setup:
-
-```sh
-# Clone the repository
-git clone https://github.com/your-repo/sentiment-analysis.git
-cd sentiment-analysis
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-## Usage
-
-### Training a Model:
-
-```sh
-python train.py --model bert --epochs 5
-```
-
-### Running Inference:
-
-```sh
-python predict.py --text "The new Tesla Model Y is amazing!" --entity "Tesla"
-```
-
-### Evaluating Models:
-
-```sh
-python evaluate.py --model distilbert
-```
-
 ## Future Improvements
 
 - **Improve entity relevance detection** (filter out irrelevant text).
@@ -110,9 +81,11 @@ python evaluate.py --model distilbert
 
 ## Contributors
 
-- **Your Name**
-- [GitHub](https://github.com/your-profile)
-- [Email](mailto\:your.email@example.com)
+- Ethan Yen
+
+- Zoheb Hasan
+
+- InjuSmol
 
 ## License
 
