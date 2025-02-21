@@ -89,5 +89,5 @@ This project focuses on training and evaluating NLP models for **targeted sentim
 
 ## License
 
-MIT License. See `LICENSE` for details.
+MIT License. 
 
